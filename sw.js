@@ -1,5 +1,5 @@
 // Offline cache: the app shell is cached on install; fonts are cached the first time they load.
-const CACHE = 'palabra-20261025171947';
+const CACHE = 'palabra-20261026190418';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon-180.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
